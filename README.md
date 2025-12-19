@@ -6,11 +6,13 @@
 
 <h2 align="left">About me</h2>
 
-###
+<p align="left">
+I’m an AI/ML Engineer focused on LLM applications—especially RAG, document intelligence, and evaluation-driven retrieval.<br>
+I build end-to-end pipelines (parsing → chunking → hybrid retrieval → reranking → API deployment) and care about reliability and traceable outputs.<br>
+I’m open to collaborating on applied ML/LLM projects.<br>
+I also write technical documentation and project write-ups.
+</p>
 
-<p align="left">📚 I'm currently learning Dart and have little experience in AI.<br>🎯 I am looking to collaborate on  Machine Learning and Deep Learning Projects<br>✍️ I am also a technical writer</p>
-
-###
 
 <h3 align="left">Programming languages</h3>
 
