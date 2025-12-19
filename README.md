@@ -61,17 +61,8 @@ I also write technical documentation and project write-ups.
 
 ###
 
-###
 
-<h3 align="left">Tools</h3>
 
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-</div>
-
-###
 
 <h3 align="left">Social Media</h3>
 
@@ -79,7 +70,7 @@ I also write technical documentation and project write-ups.
 
 <div align="left">
   <a href="www.linkedin.com/in/nada-alharbi00" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
 </p>
